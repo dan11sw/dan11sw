@@ -1,4 +1,4 @@
-[![Header](https://github.com/dan11sw/dan11sw/blob/main/assets/logo.png)]
+![Header](https://github.com/dan11sw/dan11sw/blob/main/assets/logo.png)
 
 ### Hi there 👋, my name is Daniil
 #### I am a Software Engineer
