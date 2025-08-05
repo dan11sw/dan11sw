@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, my name is Daniil
+#### I am a Software Engineer
+I have been involved in software development for over 4 years. Until 2024, he was actively engaged in FullStack development of native mobile applications, server-side (on Express.js and Go) and web applications (React.js). Since 2024, I have been focusing on system programming and machine learning.
 
-<!--
-**dan11sw/dan11sw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: C++ / Python / CUDA / Deep Learning / TensorFlow / PyTorch
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on I'm currently working on low-level services, developing my AI-based graphics engine, and writing a mobile gaming application. 
+- 🌱 I’m currently learning at Irkutsk National Research Technical University (Master's degree in Computer Science) 
+- 📫 How to reach me: https://telegram.me/dan_sw 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dan11sw)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan11sw)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dan11sw&show_icons=true)  
+
