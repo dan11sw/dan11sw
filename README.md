@@ -1,7 +1,7 @@
 ![Header](https://github.com/dan11sw/dan11sw/blob/main/assets/logo.png)
 
 ### Hi there 👋, my name is Daniil
-#### I am a Software Engineer
+#### I am a Middle Software Engineer
 I have been involved in software development for over 4 years. Until 2024, he was actively engaged in FullStack development of native mobile applications, server-side (on Express.js and Go) and web applications (React.js). Since 2024, I have been focusing on system programming and machine learning.
 
 Skills: C++ / Python / CUDA / Deep Learning / TensorFlow / PyTorch
