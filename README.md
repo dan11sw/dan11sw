@@ -12,7 +12,7 @@ All the projects in my GitHub account are divided into 3 types:
 Skills: C++ / Python / CUDA / Deep Learning / TensorFlow / PyTorch
 
 - 🔭 I’m currently working on I'm currently working on low-level services, developing my AI-based graphics engine, and writing a mobile gaming application. 
-- 🌱 I’m currently learning at Irkutsk National Research Technical University (Master's degree in Computer Science) 
+- 🌱 I’m currently learning Machine Learning, CUDA, DirectX, Linux API, Tensorflow and PyTorch. 
 - 📫 How to reach me: https://telegram.me/dan_sw 
 
 
